@@ -75,6 +75,6 @@ amazon-sales-dashboard/
 
 ## 📁 Output
 
-
+![Image](https://github.com/user-attachments/assets/029a4130-069b-4ed9-a497-d7cd7c9ed60e)
 
 
