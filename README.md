@@ -75,8 +75,7 @@ amazon-sales-dashboard/
 
 ## 📁 Output
 
-![Image](https://github.com/user-attachments/assets/53391353-1937-4d36-a42e-8fe50e3d50d8)
-![Image](https://github.com/user-attachments/assets/d1243a0c-3264-4e1a-95e1-c66b7af7e081)
 ![Image](https://github.com/user-attachments/assets/419015d8-6068-4811-9f62-8283037edc34)
-
+![Image](https://github.com/user-attachments/assets/d1243a0c-3264-4e1a-95e1-c66b7af7e081)
+![Image](https://github.com/user-attachments/assets/53391353-1937-4d36-a42e-8fe50e3d50d8)
 
